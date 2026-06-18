@@ -1,0 +1,5 @@
+id,timestamp,title,text,entities,relations
+n1,2024-02-20,CountryA and CountryB hold consultations,Officials from CountryA and CountryB held consultations on trade and regional issues.,CountryA;CountryB,consult
+n2,2024-08-10,CountryA expands cooperation with CountryB,CountryA and CountryB announced new economic cooperation before the regional summit.,CountryA;CountryB,cooperate
+n3,2024-12-20,CountryA and CountryB prepare joint program,The two sides prepared a joint cooperation program and discussed future coordination.,CountryA;CountryB,cooperate
+n4,2025-02-28,Tensions rise between CountryA and CountryB,Recent statements signaled conflict risks between CountryA and CountryB.,CountryA;CountryB,conflict

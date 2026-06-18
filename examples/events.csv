@@ -1,0 +1,9 @@
+id,timestamp,subject,relation,object
+e1,2024-01-10,CountryA,cooperate,CountryB
+e2,2024-03-02,CountryA,consult,CountryB
+e3,2024-04-15,CountryA,cooperate,CountryB
+e4,2024-07-20,CountryA,conflict,CountryC
+e5,2024-08-25,CountryA,cooperate,CountryB
+e6,2024-10-10,CountryA,cooperate,CountryB
+e7,2025-01-05,CountryA,cooperate,CountryB
+e8,2025-03-10,CountryA,conflict,CountryB
